@@ -1,2 +1,6 @@
 # Webrecorder.source
-upstream project - home: https://github.com/webrecorder
+type: upstream project
+
+home: https://webrecorder.net/
+
+code: https://github.com/webrecorder
